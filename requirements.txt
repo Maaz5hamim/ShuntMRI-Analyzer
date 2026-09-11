@@ -1,0 +1,11 @@
+numpy
+scipy
+torch
+scikit-image
+antspyx
+nibabel       
+tqdm      
+SimpleITK
+monai
+matplotlib     
+monai
